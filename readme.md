@@ -4,3 +4,8 @@
 docker-compose up -d
 ```
 How to install docker-compose ([link](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04))
+
+## Open the admin-panel
+[Admin-panel](http://localhost:8000/admin/)
+* username: admin
+* password: admin
